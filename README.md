@@ -2,8 +2,6 @@
 
 pytorch-tutorial-zh
 
-雏鹰起飞部分是为了能够快速上手PyTorch
-
 小试牛刀部分则是用来练手的模型，大部分都是对论文工作的复现，或者是一些有意思的例子。
 
 为了避免 jupyter notebook 加载过慢，可以直接选择看 .py 文件，代码和 notebook 中基本一样，只是少了一些图示说明罢了。
@@ -11,8 +9,6 @@ pytorch-tutorial-zh
 ## 如何安装Pytorch?
 
 安装 Pytorch 0.4.0版本，linux、windows 下可以通过这个 [Pytorch官网](http://pytorch.org/)
-
-## 一、雏鹰起飞
 
 | Content    | .ipynb 文件  |  .py 文件 |
 | ------------------ | :---------------------: | :--------------------------: |
